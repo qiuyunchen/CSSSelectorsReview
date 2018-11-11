@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+span{
+    display: block;
+    color: white;
+    font-size: 16px;
+    font-family: Helvetica;
+    text-emphasis: bolder;
+    font-style: italic;
+    text-indent: 20px;
+}
+
+.odd span{
+    background-color: white;
+    color: black;
+}
+
+#bridge span{
+    font-size: 16px;
+    font-weight: bold;
+    color: yellow;
+}
