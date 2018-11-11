@@ -1,0 +1,15 @@
+p.tagged {
+    color: red;
+}
+p .tagged {
+    color: green;
+}
+
+li.tagged {
+    color: green;
+}
+
+ul.ul-1 li.tagged {
+    border: 5px solid green;
+}
+
